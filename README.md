@@ -17,9 +17,9 @@ This challenge is to to build a timed coding quiz with multiple-choice questions
 
 ## Code-Quiz Mock up
 
-<img src="./assets/Quiz.png " alt="start quiz" height = 300 width= 500 />
+<img src="./assets/quiz.jpg" alt="start quiz" height = 300 width= 500 />
 
-<img src="./assets/Questions.png " alt="quiz questions" height = 300 width= 500 />
+<img src="./assets/questions.jpg" alt="quiz questions" height = 300 width= 500 />
 
 ## Technologies Used:
 - HTML
